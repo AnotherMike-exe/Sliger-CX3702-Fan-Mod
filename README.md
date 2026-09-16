@@ -87,4 +87,4 @@ Assembly photos are in [`Assembly Images/`](Assembly%20Images/).
 
 - Designed for the Sliger CX3702 chassis and compatible face plates — Sliger is not
   affiliated with this project.
-- Released under [CC0 1.0 Universal](LICENSE). Use, modify, and remix freely, for any purpose.
+- Released under [CC BY 4.0](LICENSE). Use, modify, and remix freely, for any purpose, with credit to the original designer.
